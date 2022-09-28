@@ -1,4 +1,4 @@
-Hi 👋 My name is Abil Shrestha
+Hi My name is Abil Shrestha
 ==============================
 
 Front-End Developer
