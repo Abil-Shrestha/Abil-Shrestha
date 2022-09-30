@@ -6,7 +6,7 @@ Front-End Developer
 
 * 🌍  I'm based in New york
 * 🧠  I'm learning Next.Js and Remix
-* 🤝  I'm open to collaborating on Interesting Projects
+* 🤝  I'm open to collaborate on Interesting Projects
 
 ### Skills
 
