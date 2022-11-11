@@ -5,7 +5,7 @@ Front-End Developer
 -------------------
 
 * 🌍  I'm based in New york
-* 🧠  I'm Currently learning Object Oriented Programming and Next.Js.
+* 🧠  I'm Currently learning Next.Js.
 * 🤝  I'm open to collaborate on Interesting Projects
 
 ### Skills
