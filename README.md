@@ -5,7 +5,7 @@ Front-End Developer
 -------------------
 
 * 🌍  I'm based in New york
-* 🧠  I'm Currently learning Theory of Computation and Abstract Algebra.
+* 🧠  I'm Currently learning Next Js.
 
 ### Skills
 
